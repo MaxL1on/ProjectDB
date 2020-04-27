@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "462459901927",
+    "firebase_url": "https://socialmessenger-28edb.firebaseio.com",
+    "project_id": "socialmessenger-28edb",
+    "storage_bucket": "socialmessenger-28edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462459901927:android:ed8ffd1375a4eb4e",
+        "android_client_info": {
+          "package_name": "com.lion.tom.projectdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462459901927-1o07knbc35tcvogbsgnlmcps9eru2ju5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lion.tom.projectdb",
+            "certificate_hash": "5ed55d91512bbfea5caaed8277b368c3a8fe6783"
+          }
+        },
+        {
+          "client_id": "462459901927-ca4008bnlha64d99i85me5sg2b1cbsjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhOUbAGGcAlNxwOQM2_Kx-xzHr04nkRzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462459901927-ca4008bnlha64d99i85me5sg2b1cbsjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
